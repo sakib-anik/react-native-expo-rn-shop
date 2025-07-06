@@ -1,0 +1,1 @@
+base websocket pushnotification enabled
